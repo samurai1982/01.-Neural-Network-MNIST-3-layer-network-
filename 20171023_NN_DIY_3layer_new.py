@@ -100,7 +100,7 @@ hidden_nodes2 = 300
 output_nodes = 10
 
 # 学習率
-learning_rate = 0.2
+learning_rate = 0.15
 
 # neural networkのinstance生成
 
